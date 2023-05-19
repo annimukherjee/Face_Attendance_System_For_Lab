@@ -1,0 +1,341 @@
+HelloHelloHello Stranger in_time 2023-04-23 04:31:14
+Hello Stranger out_time 2023-04-23 04:31:16
+Hello Stranger out_time 2023-04-23 04:31:21
+Hello Stranger in_time 2023-04-23 04:31:22
+Alok out_time 2023-04-23 16:50:31
+Alok in_time 2023-04-23 16:50:33
+Alok in_time 2023-04-23 16:50:35
+Alok in_time 2023-04-23 16:50:38
+Alok out_time 2023-04-23 16:50:41
+Alok in_time 2023-04-23 16:53:43
+Alok in_time 2023-04-23 16:53:45
+Hello Stranger out_time 2023-04-23 16:53:52
+Hello Stranger in_time 2023-04-23 16:53:53
+Hello Stranger out_time 2023-04-23 16:53:55
+Alok in_time 2023-04-24 00:50:15
+Alok in_time 2023-04-24 00:50:21
+Alok in_time 2023-04-24 00:50:26
+Alok in_time 2023-04-24 00:50:29
+Alok in_time 2023-04-24 00:50:31
+Alok in_time 2023-04-24 00:50:34
+Alok in_time 2023-04-24 00:50:36
+Hello Stranger in_time 2023-04-24 17:56:28
+Hello Stranger in_time 2023-04-24 17:56:29
+Alok in_time 2023-04-24 17:56:32
+Alok in_time 2023-04-24 17:56:33
+Alok in_time 2023-04-24 17:56:41
+Alok out_time 2023-04-24 17:56:46
+Hello Stranger in_time 2023-04-24 17:56:50
+Hello Stranger in_time 2023-04-24 17:56:54
+Alok in_time 2023-04-24 17:56:58
+Alok in_time 2023-04-24 17:57:01
+Alok in_time 2023-04-24 17:57:07
+Alok out_time 2023-04-24 17:57:09
+Alok in_time 2023-04-24 17:57:31
+Alok in_time 2023-04-24 17:57:32
+Alok in_time 2023-04-24 17:57:36
+Alok in_time 2023-04-24 17:57:38
+Alok in_time 2023-04-24 18:01:12
+Alok in_time 2023-04-24 18:01:14
+Alok in_time 2023-04-24 18:01:23
+Alok in_time 2023-04-24 18:01:24
+Unknown or try again.... in_time 2023-04-24 18:01:31
+Unknown or try again.... in_time 2023-04-24 18:01:32
+Alok in_time 2023-04-24 18:04:05
+Alok in_time 2023-04-24 18:04:06
+Unknown or try again.... out_time 2023-04-24 18:04:12
+Unknown or try again.... out_time 2023-04-24 18:04:13
+Alok out_time 2023-04-24 18:04:17
+Alok out_time 2023-04-24 18:04:18
+Alok in_time 2023-04-24 18:04:35
+Alok in_time 2023-04-24 18:04:36
+Unknown or try again.... in_time 2023-04-24 18:04:39
+Unknown or try again.... in_time 2023-04-24 18:04:39
+Alok in_time 2023-04-24 18:05:07
+Alok in_time 2023-04-24 18:05:09
+Unknown or try again.... in_time 2023-04-24 18:05:11
+Unknown or try again.... in_time 2023-04-24 18:05:12
+Alok in_time 2023-04-24 18:06:37
+Alok in_time 2023-04-24 18:06:39
+Alok in_time 2023-04-24 18:06:42
+Alok in_time 2023-04-24 18:06:43
+Alok in_time 2023-04-24 18:06:46
+Alok in_time 2023-04-24 18:06:47
+Alok in_time 2023-04-24 18:06:53
+Alok in_time 2023-04-24 18:06:53
+Unknown or try again.... in_time 2023-04-24 18:06:58
+Unknown or try again.... in_time 2023-04-24 18:06:59
+Unknown or try again.... in_time 2023-04-24 18:07:03
+Unknown or try again.... in_time 2023-04-24 18:07:04
+Unknown or try again.... in_time 2023-04-24 18:07:15
+Unknown or try again.... in_time 2023-04-24 18:07:16
+Alok in_time 2023-04-24 18:07:18
+Alok in_time 2023-04-24 18:07:19
+Alok in_time 2023-04-24 18:07:19
+Alok in_time 2023-04-24 18:24:33
+Alok in_time 2023-04-24 18:24:34
+Alok in_time 2023-04-24 18:24:36
+Alok in_time 2023-04-24 18:24:37
+Alok in_time 2023-04-24 18:26:06
+Alok in_time 2023-04-24 18:26:07
+Unknown or try again.... in_time 2023-04-24 18:26:09
+Unknown or try again.... in_time 2023-04-24 18:26:11
+Alok in_time 2023-04-24 18:35:31
+Alok in_time 2023-04-24 18:35:35
+Alok in_time 2023-04-24 18:35:37
+Alok in_time 2023-04-24 18:35:39
+Alok in_time 2023-04-24 18:35:43
+Alok in_time 2023-04-24 18:35:44
+Alok in_time 2023-04-24 18:40:34
+Alok in_time 2023-04-24 18:40:35
+Unknown or try again.... in_time 2023-04-24 18:40:52
+Unknown or try again.... in_time 2023-04-24 18:40:54
+Alok in_time 2023-04-24 18:41:04
+Alok in_time 2023-04-24 18:41:08
+Unknown or try again.... in_time 2023-04-24 18:41:10
+Unknown or try again.... in_time 2023-04-24 18:41:12
+Alok in_time 2023-04-24 18:41:15
+Alok in_time 2023-04-24 18:41:16
+Alok in_time 2023-04-24 18:48:32
+Alok in_time 2023-04-24 18:48:39
+Alok out_time 2023-04-24 18:49:16
+Alok out_time 2023-04-24 18:49:17
+Alok out_time 2023-04-24 18:49:29
+Alok out_time 2023-04-24 18:49:30
+Alok out_time 2023-04-24 18:49:38
+Alok out_time 2023-04-24 18:49:38
+Alok in_time 2023-04-24 18:51:18
+Alok in_time 2023-04-24 18:51:20
+Alok in_time 2023-04-24 18:51:22
+Alok in_time 2023-04-24 18:51:24
+Unknown or try again.... in_time 2023-04-24 18:51:27
+Unknown or try again.... in_time 2023-04-24 18:51:29
+Unknown or try again.... in_time 2023-04-24 18:51:30
+Unknown or try again.... in_time 2023-04-25 03:54:32
+Unknown or try again.... in_time 2023-04-25 03:54:39
+Unknown or try again.... in_time 2023-04-25 03:55:30
+Unknown or try again.... in_time 2023-04-25 03:55:35
+Unknown or try again.... in_time 2023-04-25 03:55:40
+Unknown or try again.... in_time 2023-04-25 03:55:45
+Unknown or try again.... in_time 2023-04-25 03:58:30
+Unknown or try again.... in_time 2023-04-25 03:58:32
+Unknown or try again.... out_time 2023-04-25 03:58:46
+Unknown or try again.... in_time 2023-04-25 03:58:47
+Unknown or try again.... out_time 2023-04-25 04:01:34
+Unknown or try again.... in_time 2023-04-25 04:17:21
+Unknown or try again.... in_time 2023-04-25 04:17:22
+Unknown or try again.... in_time 2023-04-25 04:17:26
+Unknown or try again.... in_time 2023-04-25 04:17:33
+Unknown or try again.... in_time 2023-04-25 04:18:09
+Unknown or try again.... in_time 2023-04-25 04:18:18
+Unknown or try again.... in_time 2023-04-25 04:18:21
+Unknown or try again.... in_time 2023-04-25 04:18:27
+Unknown or try again.... in_time 2023-04-25 04:18:29
+Unknown or try again.... out_time 2023-04-25 04:18:35
+Unknown or try again.... out_time 2023-04-25 04:18:39
+Unknown or try again.... in_time 2023-04-25 04:47:18
+Unknown or try again.... in_time 2023-04-25 15:18:45
+Alok in_time 2023-04-25 15:18:49
+Alok in_time 2023-04-25 17:14:59
+Alok in_time 2023-04-25 17:16:56
+Alok in_time 2023-04-25 17:18:09
+Alok in_time 2023-04-25 17:19:10
+Alok in_time 2023-04-25 17:19:26
+Sheefa in_time 2023-04-25 17:19:45
+Unknown or try again.... in_time 2023-04-25 17:19:48
+Alok in_time 2023-04-25 17:20:04
+Unknown or try again.... in_time 2023-04-25 17:20:31
+Unknown or try again.... in_time 2023-04-25 17:20:36
+Alok in_time 2023-04-25 17:22:50
+Alok out_time 2023-04-25 17:23:44
+Alok out_time 2023-04-25 17:23:48
+Alok in_time 2023-04-25 17:26:00
+Alok_21051877 in_time 2023-04-25 17:28:31
+Alok_21051877 out_time 2023-04-25 17:29:04
+Alok_21051877 in_time 2023-04-25 17:29:47
+Alok_21051877 in_time 2023-04-25 17:31:50
+Alok_21051877 out_time 2023-04-25 17:31:58
+Alok_21051877 out_time 2023-04-25 17:32:06
+Alok_21051877 in_time 2023-04-25 17:38:58
+Alok_21051877 in_time 2023-04-25 17:46:32
+Alok_21051877 in_time 2023-04-25 17:46:35
+Alok_21051877 in_time 2023-04-25 17:46:40
+Alok_21051877 out_time 2023-04-25 17:46:43
+Alok_21051877 in_time 2023-04-25 17:59:14
+Alok_21051877 in_time 2023-04-25 18:01:40
+Swati in_time 2023-04-25 18:35:35
+Swati out_time 2023-04-25 18:35:50
+Swati in_time 2023-04-25 18:45:21
+Unknown or try again.... in_time 2023-04-25 19:08:56
+Sheefa out_time 2023-04-25 19:09:13
+Unknown or try again.... in_time 2023-04-25 20:59:50
+Unknown or try again.... in_time 2023-04-25 20:59:53
+Swati in_time 2023-04-25 20:59:58
+Unknown or try again.... out_time 2023-04-26 18:25:39
+2105759 in_time 2023-04-26 18:31:07
+Unknown or try again.... in_time 2023-04-26 18:33:52
+21051949 in_time 2023-04-26 19:04:15
+Unknown or try again.... in_time 2023-04-26 19:14:27
+21051949 in_time 2023-04-26 19:15:49
+Unknown or try again.... in_time 2023-04-26 19:16:02
+Unknown or try again.... in_time 2023-04-26 19:16:08
+Prof Samantha in_time 2023-04-26 19:16:25
+Prof Samantha out_time 2023-04-26 19:20:08
+Unknown or try again.... out_time 2023-04-26 19:20:46
+Unknown or try again.... in_time 2023-04-26 19:20:49
+2028125 in_time 2023-04-26 19:20:57
+Unknown or try again.... in_time 2023-04-26 19:31:16
+Unknown or try again.... out_time 2023-04-26 19:31:22
+21051949 in_time 2023-04-26 19:37:38
+bobskipped for in_time for Unknown or try again.... at 2023-04-26 20:39:17
+skipped for in_time for Unknown or try again.... at 2023-04-26 20:39:23
+skipped for in_time for Unknown or try again.... at 2023-04-26 20:39:26
+hitting in_time for 21051949 at 2023-04-26 20:39:37
+skipped for in_time for Unknown or try again.... at 2023-04-26 20:39:44
+hitting in_time for 21051949 at 2023-04-26 20:39:47
+skipped for in_time for 21051949 at 2023-04-26 20:39:47
+Unknown or try again.... in_time 2023-04-26 20:39:17
+Unknown or try again.... in_time 2023-04-26 20:39:23
+Unknown or try again.... in_time 2023-04-26 20:39:26
+21051949 in_time 2023-04-26 20:39:37
+Unknown or try again.... in_time 2023-04-26 20:39:44
+21051949 in_time 2023-04-26 20:39:47
+hitting in_time for 21051949 at 2023-04-26 20:44:19
+skipped for in_time for 21051949 at 2023-04-26 20:44:19
+hitting in_time for 2030049 at 2023-04-26 20:46:40
+hitting in_time for 2030049 at 2023-04-26 20:46:47
+skipped for in_time for 2030049 at 2023-04-26 20:46:47
+hitting in_time for 2030049 at 2023-04-26 20:46:50
+skipped for in_time for 2030049 at 2023-04-26 20:46:50
+hitting in_time for 21052092 at 2023-04-26 20:47:01
+hitting in_time for 2005146 at 2023-04-26 20:47:06
+skipped for in_time for Unknown or try again.... at 2023-04-26 20:47:19
+hitting in_time for 21052092 at 2023-04-26 20:47:24
+skipped for in_time for 21052092 at 2023-04-26 20:47:24
+hitting in_time for 2030049 at 2023-04-26 20:47:28
+skipped for in_time for 2030049 at 2023-04-26 20:47:28
+21051949 in_time 2023-04-26 20:44:19
+2030049 in_time 2023-04-26 20:46:40
+2030049 in_time 2023-04-26 20:46:47
+2030049 in_time 2023-04-26 20:46:50
+21052092 in_time 2023-04-26 20:47:01
+2005146 in_time 2023-04-26 20:47:06
+Unknown or try again.... in_time 2023-04-26 20:47:19
+21052092 in_time 2023-04-26 20:47:24
+2030049 in_time 2023-04-26 20:47:28
+hitting in_time for 2005166 at 2023-04-27 14:01:27
+skipped for in_time for Unknown or try again.... at 2023-04-27 14:01:37
+hitting in_time for 2030049 at 2023-04-27 14:01:42
+skipped for in_time for Unknown or try again.... at 2023-04-27 14:01:51
+skipped for in_time for Unknown or try again.... at 2023-04-27 14:01:56
+skipped for in_time for Unknown or try again.... at 2023-04-27 14:01:59
+hitting in_time for 2030049 at 2023-04-27 14:02:12
+skipped for in_time for 2030049 at 2023-04-27 14:02:12
+skipped for out_time for Unknown or try again.... at 2023-04-27 14:02:19
+hitting out_time for 2005166 at 2023-04-27 14:03:28
+hitting in_time for 2005166 at 2023-04-27 14:04:06
+skipped for in_time for 2005166 at 2023-04-27 14:04:06
+hitting in_time for 2205421 at 2023-04-27 14:04:51
+hitting in_time for 21051887 at 2023-04-27 14:19:08
+hitting out_time for 21051887 at 2023-04-27 14:19:38
+hitting in_time for 21051877 at 2023-04-27 14:20:51
+hitting in_time for 21051877 at 2023-04-27 14:23:07
+skipped for in_time for 21051877 at 2023-04-27 14:23:07
+skipped for in_time for Unknown or try again.... at 2023-04-27 14:23:45
+hitting in_time for 2005166 at 2023-04-27 14:23:59
+skipped for in_time for Unknown or try again.... at 2023-04-27 14:24:20
+hitting out_time for 2005166 at 2023-04-27 14:24:30
+hitting in_time for 2005166 at 2023-04-27 14:24:42
+21051877 in_time 2023-04-27 14:20:51
+21051877 in_time 2023-04-27 14:23:07
+Unknown or try again.... in_time 2023-04-27 14:23:45
+2005166 in_time 2023-04-27 14:23:59
+Unknown or try again.... in_time 2023-04-27 14:24:20
+2005166 out_time 2023-04-27 14:24:30
+2005166 in_time 2023-04-27 14:24:42
+hitting in_time for 2005166 at 2023-04-27 14:41:04
+skipped for in_time for Unknown or try again.... at 2023-04-27 14:42:31
+hitting in_time for 2005166 at 2023-04-27 14:45:11
+skipped for in_time for 2005166 at 2023-04-27 14:45:11
+hitting in_time for 2005166 at 2023-04-27 16:13:21
+hitting in_time for 2005166 at 2023-04-27 16:13:48
+hitting out_time for 2005166 at 2023-04-27 16:14:19
+hitting in_time for Prof Samantha at 2023-04-27 16:14:33
+hitting in_time for Prof Samantha at 2023-04-27 16:14:37
+hitting in_time for Prof Samantha at 2023-04-27 16:14:40
+hitting in_time for Prof Samantha at 2023-04-27 16:14:41
+hitting in_time for Prof Samantha at 2023-04-27 16:14:41
+hitting in_time for Prof Samantha at 2023-04-27 16:14:43
+hitting out_time for Prof Samantha at 2023-04-27 16:14:44
+skipped for in_time for Unknown or try again.... at 2023-04-27 16:19:43
+skipped for in_time for Unknown or try again.... at 2023-04-27 16:19:48
+hitting in_time for Prof at 2023-04-27 16:20:08
+skipped for in_time for Unknown or try again.... at 2023-04-27 16:22:38
+hitting in_time for 21051877 at 2023-04-27 16:22:48
+skipped for in_time for Unknown or try again.... at 2023-04-27 17:07:41
+hitting in_time for 21051877 at 2023-04-27 17:08:05
+skipped for out_time for Unknown or try again.... at 2023-04-27 17:35:55
+hitting in_time for 21051877 at 2023-04-28 10:41:51
+hitting in_time for 21051877 at 2023-04-28 10:41:57
+skipped for in_time for 21051877 at 2023-04-28 10:41:57
+hitting in_time for 21051877 at 2023-04-28 10:43:12
+skipped for in_time for 21051877 at 2023-04-28 10:43:12
+hitting in_time for 21051877 at 2023-04-28 10:43:17
+skipped for in_time for 21051877 at 2023-04-28 10:43:17
+hitting out_time for 21051877 at 2023-04-28 10:43:32
+hitting in_time for 21051877 at 2023-04-28 11:19:27
+hitting out_time for 21051877 at 2023-04-28 13:14:34
+skipped for in_time for Unknown or try again.... at 2023-04-28 13:14:42
+hitting in_time for 21051949 at 2023-04-28 13:14:44
+hitting in_time for 21051949 at 2023-04-28 13:14:48
+skipped for in_time for 21051949 at 2023-04-28 13:14:48
+hitting in_time for 21051949 at 2023-04-28 13:14:49
+skipped for in_time for 21051949 at 2023-04-28 13:14:49
+21051877 out_time 2023-04-28 13:14:34
+Unknown or try again.... in_time 2023-04-28 13:14:42
+21051949 in_time 2023-04-28 13:14:44
+21051949 in_time 2023-04-28 13:14:48
+21051949 in_time 2023-04-28 13:14:49
+hitting in_time for 2205533 at 2023-04-28 13:28:55
+hitting in_time for 2205533 at 2023-04-28 13:29:11
+skipped for in_time for 2205533 at 2023-04-28 13:29:11
+hitting in_time for 2205533 at 2023-04-28 13:29:24
+skipped for in_time for 2205533 at 2023-04-28 13:29:24
+hitting in_time for 21051913 at 2023-04-28 13:29:38
+hitting in_time for 21051913 at 2023-04-28 13:29:48
+skipped for in_time for 21051913 at 2023-04-28 13:29:48
+hitting in_time for 21051913 at 2023-04-28 13:29:59
+skipped for in_time for 21051913 at 2023-04-28 13:29:59
+hitting in_time for 21051913 at 2023-04-28 13:30:02
+skipped for in_time for 21051913 at 2023-04-28 13:30:02
+hitting in_time for 21051913 at 2023-04-28 13:30:05
+skipped for in_time for 21051913 at 2023-04-28 13:30:05
+hitting in_time for 21051913 at 2023-04-28 13:30:08
+skipped for in_time for 21051913 at 2023-04-28 13:30:08
+2205533 in_time 2023-04-28 13:28:55
+2205533 in_time 2023-04-28 13:29:11
+2205533 in_time 2023-04-28 13:29:24
+21051913 in_time 2023-04-28 13:29:38
+21051913 in_time 2023-04-28 13:29:48
+21051913 in_time 2023-04-28 13:29:59
+21051913 in_time 2023-04-28 13:30:02
+21051913 in_time 2023-04-28 13:30:05
+21051913 in_time 2023-04-28 13:30:08
+skipped for in_time for Unknown or try again.... at 2023-04-28 13:41:28
+hitting in_time for 21051877 at 2023-04-28 13:56:45
+hitting in_time for 2205533 at 2023-04-28 14:13:06
+Unknown or try again.... in_time 2023-04-28 13:41:28
+21051877 in_time 2023-04-28 13:56:45
+2205533 in_time 2023-04-28 14:13:06
+hitting in_time for 21051877 at 2023-04-28 14:25:46
+skipped for in_time for Unknown or try again.... at 2023-04-28 14:41:08
+skipped for in_time for Unknown or try again.... at 2023-04-28 14:41:36
+skipped for in_time for Unknown or try again.... at 2023-04-28 14:44:38
+hitting in_time for 21051877 at 2023-04-28 15:40:52
+hitting in_time for 21051877 at 2023-04-28 15:44:33
+Unknown or try again.... in_time 2023-04-28 14:41:08
+Unknown or try again.... in_time 2023-04-28 14:41:36
+Unknown or try again.... in_time 2023-04-28 14:44:38
+21051877 in_time 2023-04-28 15:40:52
+21051877 in_time 2023-04-28 15:44:33
+skipped for in_time for Unknown or try again.... at 2023-05-19 18:32:43
